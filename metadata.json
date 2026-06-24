@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "7IylCg8emIn_fj5qVjO4WRhxgzlt75FP",
+        "plugin": "copilot",
+        "language": "zh-cn",
+        "version": "4.0.0-preview-260622",
+        "supported_versions": "4.0.0-preview-260622",
+        "title": "Copilot",
+        "description": "Copilot Localization & Tweaks",
+        "hash": "69ac9c1c69ac9c1c69ac9c1c69ac9c1c",
+        "created_at": "2026-06-24T15:42:55.145Z",
+        "updated_at": "2026-06-24T15:42:55.145Z",
+        "type": "plugin"
+    }
+]
